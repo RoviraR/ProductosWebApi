@@ -1,0 +1,22 @@
+# Archivos de compilación y carpetas temporales
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.log
+ 
+# Configuraciones de usuario y depuración
+launchSettings.json
+ 
+# Archivos de configuración sensibles
+appsettings.json
+appsettings.Development.json
+ 
+# Bases de datos locales de SQL Server
+*.mdf
+*.ldf
+ 
+# Dependencias de paquetes
+node_modules/
+wwwroot/lib/
